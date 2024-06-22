@@ -8,7 +8,7 @@ Para clonar e executar esta aplicação, você precisará do [Git](https://git-s
 
 ```bash
 # Clonar este repositório
-git clone https://github.com/NickBossz/AvaliacaoJogos-REACT.git
+git clone https://github.com/NickBossz/AvaliacaoJogos-BACKEND.git
 
 # Entrar no repositório
 cd AvaliacaoJogos-REACT
